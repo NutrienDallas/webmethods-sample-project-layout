@@ -84,6 +84,10 @@
 </MAP>
 
 <MAP TIMEOUT="" MODE="STANDALONE">
-  <COMMENT>added comment</COMMENT>
+  <COMMENT>added comment 2</COMMENT>
+</MAP>
+
+<MAP TIMEOUT="" MODE="STANDALONE">
+  <COMMENT></COMMENT>
 </MAP>
 </FLOW>
